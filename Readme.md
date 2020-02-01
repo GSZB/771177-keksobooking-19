@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Szabolcs Gönczy](https://up.htmlacademy.ru/javascript/19/user/771177).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Малинов](https://htmlacademy.ru/profile/id40204).
 
 ---
 
